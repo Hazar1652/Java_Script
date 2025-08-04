@@ -1,0 +1,33 @@
+let a1 = 'hello'
+let b1 = 'owu'
+let c1 = 'com'
+let d1 = 'ua'
+let number = 1
+let ten = 10
+let minus = -999
+let first_numbers = 123
+let pi = 3.14
+let number2 = 2.7
+let number3 = 16
+let good = true
+let bad = false
+console.log(a1, b1, c1, d1, number, ten, minus, first_numbers, pi, number2, number3, good, bad)
+
+
+let firstName = 'Vasilevich'
+let midlleName = 'Nazar'
+let lastName = 'Stepanovich'
+let preson = firstName + ' ' + midlleName + ' ' + lastName
+console.log(preson)
+
+let a = 100
+let b = '100'
+let c = true
+console.log(typeof a)
+console.log(typeof b)
+console.log(typeof c)
+
+name_1= prompt('What is your name?')
+surname= prompt('What is your surname?')
+age = prompt('What is your age')
+console.log("Your information is: " +"Name:" + name_1 + ' Surname:'+ surname +' Age:' +age)
